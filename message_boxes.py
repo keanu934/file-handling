@@ -9,8 +9,7 @@ def show_message():
     else:
         print("User wimped out")
 
-
-
+        
 window = tk.Tk()
 window.title("Message Box")
 window.geometry("400x300")
@@ -21,5 +20,4 @@ button = tk.Button(window,
 
 
 button.pack()
-window.mainloop()xvdz'kp'dgsk'fhdkp[[hkp[[rhi[0feu0rtykp7erwpg f f bfgf'=-986{]]]]]asdafgs
-dxbdry4e56ydrgrtf5y5ryt6u85
+window.mainloop()
